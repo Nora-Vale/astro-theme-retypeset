@@ -132,25 +132,25 @@ export const themeConfig: ThemeConfig = {
 
   // FOOTER SETTINGS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> START
   footer: {
-    // social links
-    // links: [
-    //   {
-    //     name: 'RSS',
-    //     url: '/atom.xml', // or /rss.xml
-    //   },
-    //   {
-    //     name: 'GitHub',
-    //     url: 'https://github.com/radishzzz/astro-theme-retypeset',
-    //   },
-    //   {
-    //     name: 'Email',
-    //     url: 'email@radishzz.cc',
-    //   },
-    //   {
-    //     name: 'X',
-    //     url: 'https://x.com/radishzz_',
-    //   },
-    // ],
+    social links
+    links: [
+      // {
+      //   name: 'RSS',
+      //   url: '/atom.xml', // or /rss.xml
+      // },
+      // {
+      //   name: 'GitHub',
+      //   url: 'https://github.com/radishzzz/astro-theme-retypeset',
+      // },
+      // {
+      //   name: 'Email',
+      //   url: 'email@radishzz.cc',
+      // },
+      // {
+      //   name: 'X',
+      //   url: 'https://x.com/radishzz_',
+      // },
+    ],
     // year of website start
     startYear: 2025,
   },
