@@ -146,11 +146,11 @@ export const themeConfig: ThemeConfig = {
     //     name: 'Email',
     //     url: 'email@radishzz.cc',
     //   },
-      // {
-      //   name: 'X',
-      //   url: 'https://x.com/radishzz_',
-      // },
-    ],
+    //   {
+    //     name: 'X',
+    //     url: 'https://x.com/radishzz_',
+    //   },
+    // ],
     // year of website start
     startYear: 2025,
   },
