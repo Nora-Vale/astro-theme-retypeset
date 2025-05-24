@@ -4,9 +4,9 @@ export const themeConfig: ThemeConfig = {
   // SITE INFORMATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> START
   site: {
     // site title
-    title: 'Premonition',
+    title: 'Vaisto',
     // site subtitle
-    subtitle: 'A vaisto',
+    subtitle: '',
     // site description
     description: 'About Some Pieces of My Memory. One Reminiscence, One Feeling',
     // use i18n title/subtitle/description from src/i18n/ui.ts instead of static ones above
