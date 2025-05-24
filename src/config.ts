@@ -6,7 +6,7 @@ export const themeConfig: ThemeConfig = {
     // site title
     title: 'Vaisto',
     // site subtitle
-    subtitle: 'Reminiscence',
+    subtitle: 'An intuition',
     // site description
     description: 'About Some Pieces of My Memory. One Reminiscence, One Feeling',
     // use i18n title/subtitle/description from src/i18n/ui.ts instead of static ones above
