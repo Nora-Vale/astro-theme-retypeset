@@ -114,7 +114,7 @@ export const themeConfig: ThemeConfig = {
     googleAnalyticsID: '',
     // umami analytics
     // https://cloud.umami.is
-    umamiAnalyticsID: '520af332-bfb7-4e7c-9386-5f273ee3d697',
+    umamiAnalyticsID: 'a32f14e7-6f91-4bba-b54e-4347bdb66be7',
     // follow verification
     // https://follow.is/
     follow: {
@@ -170,7 +170,7 @@ export const themeConfig: ThemeConfig = {
     // custom umami analytics js
     // for users who deploy umami on their own, or route analytics javascript to a customized domain
     // see https://github.com/umami-software/umami/discussions/1026
-    customUmamiAnalyticsJS: 'https://js.radishzz.cc/jquery.min.js',
+    customUmamiAnalyticsJS: 'https://iumami.netlify.app/script.js',
   },
   // PRELOAD SETTINGS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> END
 }
